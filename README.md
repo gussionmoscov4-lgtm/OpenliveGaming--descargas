@@ -9,5 +9,5 @@ Aplicación para hacer directos de Youtube etc con RTMP y la clave de emisión a
 - 🔊 **Audio del dispositivo:** permite transmitir el sonido interno del dispositivo cuando Android y la configuración de la aplicación lo permiten.
 - 📱 **Captura de pantalla:** comparte la pantalla de tu dispositivo Android en directo.
 - ⚙️ **Configuración de transmisión:** configura los destinos RTMP según tus necesidades.
-🚫 No incluye anuncios ni marcas de agua
-⚙️ Permite ajustar la resolución y fps
+- 🚫 No incluye anuncios ni marcas de agua
+- ⚙️ Permite ajustar la resolución y fps
